@@ -1,0 +1,2 @@
+# Chatapp
+Django chat master
